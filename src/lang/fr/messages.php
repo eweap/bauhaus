@@ -12,10 +12,10 @@
 return [
 
 	'success' => [
-		'title'         => 'Succès !',
+		'title'         => 'Succès ! ',
 		'model-created' => 'Ajouter un(e) :model',
 		'model-updated' => 'Modifier un(e) :model',
-		'model-deleted' => 'Supprimer :count :model'
+		'model-deleted' => ':model supprimé(es)'
 	],
 
 	'warning' => [
